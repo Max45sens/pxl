@@ -1,0 +1,8 @@
+Origin: Max45sens pxl
+Label: Max45sens pxl
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Max45sens's repo!
